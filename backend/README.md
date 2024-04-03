@@ -45,6 +45,7 @@ $ npm run start:dev
 ```
 
 The application runs on port 3331.
+Your DB is set to be populated with random data as soon as you start the application so it is easier to visualize charts and tables. Feel free to manipulate data through the application.
 
 ## Migration
 
