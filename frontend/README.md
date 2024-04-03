@@ -1,5 +1,13 @@
 # React + TypeScript + Vite
 
+## Installation
+
+Install dependencies using npm (package manager for JavaScript)
+
+```bash
+$ npm install
+```
+
 ## Running the app
 
 ```bash
@@ -7,6 +15,9 @@ $ npm run dev
 ```
 
 The application runs on port 5000, it is set to be opened automatically when you start the app.
+
+---
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
